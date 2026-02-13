@@ -1,3 +1,5 @@
 musan
 musan.tar.gz
 artifacts
+.ipython/
+.jupyter/
