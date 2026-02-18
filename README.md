@@ -1,4 +1,4 @@
-# Efficient SMV-SVM Reproduction (Sections 5.4 to 5.7)
+# Efficient SMV-SVM Reproduction
 
 This repository contains a notebook-based reproduction of key experiments from the paper:
 `Efficient implementation techniques of an SVM-based speech/music classifier in SMV`
